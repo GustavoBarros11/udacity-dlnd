@@ -1,6 +1,6 @@
 # Udacity Deep Learning Nanodegree Projects
-My projects of the Udacity Deep Learning Nanodegree Program
-<br/>
+**My projects for the Udacity Deep Learning Nanodegree Program**
+<br/><br/>
 ![jpg](img/sgafsgdsh.png)
 
 # Overview
