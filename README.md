@@ -4,7 +4,7 @@
 ![jpg](img/sgafsgdsh.png)
 
 # Overview
-Deep learning é o tópico mais em alta quando se pensa em inteligência artificial. As maiores empresas de tecnologia do mundo, como Amazon, Google, IBM e Facebook, são as mais conhecidas por utilizar essa tecnologia. Pesquisa e comandos por voz, reconhecimento e busca de imagem e ferramentas de tradução automática de posts em redes sociais são exemplos comuns que utilizam deep learning atualmente. Mas, o que ainda está por vir é muito maior. Prepare-se para essa revolução do mundo da inteligência artificial com a Udacity!
+Deep learning is the hottest topic when thinking about artificial intelligence. The largest technology companies in the world, such as Amazon, Google, IBM and Facebook, are best known for using this technology. Search and voice commands, image recognition and search, and automatic translation tools for posts on social networks are common examples that currently use deep learning. But what is yet to come is much greater. Get ready for this revolution in the world of artificial intelligence with Udacity!
 <br/>
 ## Project 1
 ### Your first neural network
